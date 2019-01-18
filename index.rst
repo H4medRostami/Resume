@@ -121,8 +121,7 @@ Bitloc.ir | Online Crypto currency Exchange  `[bitloc.ir]`_
 		Ministry of Labor and Social Affair
 		
 		
-
-6.	
+5.	
 		Master's Degree Marketing Management
 		**canceled**
 
